@@ -1,2 +1,1 @@
-# India
-this api is used to perform thr game emote 
+# api for indian server
